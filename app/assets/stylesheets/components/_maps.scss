@@ -1,0 +1,11 @@
+// _maps.scss
+
+.mapboxgl-popup {
+  max-width: 200px;
+  color: red;
+}
+
+.mapboxgl-popup-content {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
